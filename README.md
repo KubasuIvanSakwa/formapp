@@ -11,14 +11,14 @@ Live Search & Auto-Fill: Type a Client ID or Name to instantly search the databa
 
 Debounced API Calls: Optimized search inputs that prevent API flooding by waiting for user inactivity.
 
-<h3Intelligent Location Handling</h3>
+<h3>Intelligent Location Handling</h3>
 Cascading Dropdowns: Selecting a Country (e.g., Kenya) automatically filters the available Regions, Districts, and Wards.
 
 Smart Resets: Changing a parent field (like Country) automatically clears child fields to prevent invalid data combinations.
 
 East Africa Dataset: Pre-configured data for Kenya, Tanzania, Uganda, Rwanda, and Burundi.
 
-<h3Audit & Validation</h3>
+<h3>Audit & Validation</h3>
 "Behind The Scenes" (BTS) Log: A dedicated sidebar panel that tracks metadata invisible to standard users:
 
 Record Status (Active/Closed)
