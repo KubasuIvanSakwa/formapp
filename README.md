@@ -1,5 +1,3 @@
-📋 Client Management Portal (Frontend)
-A sophisticated, multi-step data entry application built with React and Tailwind CSS. Designed for enterprise client onboarding, it features real-time record searching, smart auto-filling, and comprehensive audit logging.
 
 Live Demo: [Demo](https://formapp-opal.vercel.app/)
 
